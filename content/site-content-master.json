@@ -1,0 +1,240 @@
+{
+  "brand": "ParaṀ Tatva",
+  "planned_domain": "https://param-tatva.com",
+  "contact_phone": "+91 8898889710",
+  "social_links": {
+    "Instagram": "https://www.instagram.com/paramtatva.official",
+    "YouTube": "https://youtube.com/@paramtatva.official",
+    "Facebook": "https://www.facebook.com/paramtatvaofficial/"
+  },
+  "services": [
+    {
+      "slug": "pranic-healing",
+      "title": "Pranic Healing",
+      "category": "Healing and wellbeing",
+      "price": null,
+      "active_offers": [],
+      "booking_url": null,
+      "verified_for_publication": false
+    },
+    {
+      "slug": "cancer-support-program",
+      "title": "Cancer Support Programme",
+      "category": "Healing and wellbeing",
+      "price": null,
+      "active_offers": [],
+      "booking_url": null,
+      "verified_for_publication": false
+    },
+    {
+      "slug": "akashic-records-reading",
+      "title": "Akashic Records Reading",
+      "category": "Akashic Records",
+      "price": null,
+      "active_offers": [],
+      "booking_url": null,
+      "verified_for_publication": false
+    },
+    {
+      "slug": "akashic-records-clearing",
+      "title": "Akashic Records Clearing",
+      "category": "Akashic Records",
+      "price": null,
+      "active_offers": [],
+      "booking_url": null,
+      "verified_for_publication": false
+    },
+    {
+      "slug": "animal-communication",
+      "title": "Animal Communication",
+      "category": "Communication practices",
+      "price": null,
+      "active_offers": [],
+      "booking_url": null,
+      "verified_for_publication": false
+    },
+    {
+      "slug": "plant-communication",
+      "title": "Plant Communication",
+      "category": "Communication practices",
+      "price": null,
+      "active_offers": [],
+      "booking_url": null,
+      "verified_for_publication": false
+    },
+    {
+      "slug": "object-communication",
+      "title": "Object Communication",
+      "category": "Communication practices",
+      "price": null,
+      "active_offers": [],
+      "booking_url": null,
+      "verified_for_publication": false
+    },
+    {
+      "slug": "tarot-guidance",
+      "title": "Tarot Guidance",
+      "category": "Consultations and guidance",
+      "price": null,
+      "active_offers": [],
+      "booking_url": null,
+      "verified_for_publication": false
+    },
+    {
+      "slug": "pendulum-dowsing",
+      "title": "Pendulum Dowsing",
+      "category": "Consultations and guidance",
+      "price": null,
+      "active_offers": [],
+      "booking_url": null,
+      "verified_for_publication": false
+    },
+    {
+      "slug": "astrology-patrika-reading",
+      "title": "Astrology / Patrika Reading",
+      "category": "Consultations and guidance",
+      "price": null,
+      "active_offers": [],
+      "booking_url": null,
+      "verified_for_publication": false
+    },
+    {
+      "slug": "numerology",
+      "title": "Numerology Consultation",
+      "category": "Consultations and guidance",
+      "price": null,
+      "active_offers": [],
+      "booking_url": null,
+      "verified_for_publication": false
+    },
+    {
+      "slug": "vastu-consultation",
+      "title": "Vastu Consultation",
+      "category": "Spaces and property",
+      "price": null,
+      "active_offers": [],
+      "booking_url": null,
+      "verified_for_publication": false
+    },
+    {
+      "slug": "feng-shui-consultation",
+      "title": "Feng Shui Consultation",
+      "category": "Spaces and property",
+      "price": null,
+      "active_offers": [],
+      "booking_url": null,
+      "verified_for_publication": false
+    },
+    {
+      "slug": "crystal-healing",
+      "title": "Crystal Healing",
+      "category": "Healing and wellbeing",
+      "price": null,
+      "active_offers": [],
+      "booking_url": null,
+      "verified_for_publication": false
+    },
+    {
+      "slug": "land-property-healing",
+      "title": "Land & Property Energy Clearing",
+      "category": "Spaces and property",
+      "price": null,
+      "active_offers": [],
+      "booking_url": null,
+      "verified_for_publication": false
+    },
+    {
+      "slug": "business-financial-healing",
+      "title": "Business & Financial Energy Clearing",
+      "category": "Business and specialised services",
+      "price": null,
+      "active_offers": [],
+      "booking_url": null,
+      "verified_for_publication": false
+    },
+    {
+      "slug": "consultation-guidance",
+      "title": "Consultation & Guidance",
+      "category": "Consultations and guidance",
+      "price": null,
+      "active_offers": [],
+      "booking_url": null,
+      "verified_for_publication": false
+    }
+  ],
+  "workshops": [
+    {
+      "slug": "akashic-records-level-1",
+      "title": "Akashic Records Workshop · Level 1",
+      "category": "Akashic Records training",
+      "price": null,
+      "next_dates": [],
+      "registration_url": null,
+      "verified_for_publication": false
+    },
+    {
+      "slug": "akashic-records-level-2",
+      "title": "Akashic Records Workshop · Level 2",
+      "category": "Akashic Records training",
+      "price": null,
+      "next_dates": [],
+      "registration_url": null,
+      "verified_for_publication": false
+    },
+    {
+      "slug": "akashic-records-level-3",
+      "title": "Akashic Records Workshop · Level 3",
+      "category": "Akashic Records training",
+      "price": null,
+      "next_dates": [],
+      "registration_url": null,
+      "verified_for_publication": false
+    },
+    {
+      "slug": "animal-communication-workshop",
+      "title": "Animal Communication Workshop",
+      "category": "Animal communication training",
+      "price": null,
+      "next_dates": [],
+      "registration_url": null,
+      "verified_for_publication": false
+    },
+    {
+      "slug": "plant-communication-workshop",
+      "title": "Plant Communication Workshop",
+      "category": "Plant communication training",
+      "price": null,
+      "next_dates": [],
+      "registration_url": null,
+      "verified_for_publication": false
+    },
+    {
+      "slug": "practice-sessions",
+      "title": "Practice Sessions",
+      "category": "Ongoing practice",
+      "price": null,
+      "next_dates": [],
+      "registration_url": null,
+      "verified_for_publication": false
+    },
+    {
+      "slug": "monthly-online-meetups",
+      "title": "Monthly Online Meetups",
+      "category": "Community and practice",
+      "price": null,
+      "next_dates": [],
+      "registration_url": null,
+      "verified_for_publication": false
+    }
+  ],
+  "owner_review_items": [
+    "approve current prices and package variants",
+    "approve durations and service inclusions",
+    "approve workshop curriculum, prerequisites, dates and fees",
+    "add second founder name, portrait, biography and verified credentials",
+    "add genuine testimonials with publication permission",
+    "connect Cal.com booking event types",
+    "finalise legal policies",
+    "confirm purchased domain"
+  ]
+}

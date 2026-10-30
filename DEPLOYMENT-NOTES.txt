@@ -1,0 +1,9 @@
+DEPLOYMENT NOTES
+================
+Do not publish this prototype yet. It contains clearly marked founder, pricing, schedule, testimonial and legal review items.
+
+Intended hosting style: static HTML files with directory index.html pages. The folder structure is compatible with static hosting platforms, but production routing and custom 404 behaviour must be tested on the chosen host.
+
+Before deployment: confirm domain, replace all owner-review placeholders, configure real Cal.com URLs, complete approved legal pages, set up a content editing solution, finish the launch checklist, and perform live-device QA.
+
+No API keys, passwords or secret tokens are included in the prototype.
